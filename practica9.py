@@ -20,23 +20,29 @@ while True:
         empate_count += 1
     elif user_choice == Opciones[0]:
         if computer_choice == "papel":
+            print("🪨 vs 📄")
             print("El compútador gana el combate 📄")
             computer_count += 1
         else:
+            print("🪨 vs ✂️")
             print(f"El usuario gano el combate 🪨")
             user_count += 1
     elif user_choice == Opciones[1]:
         if computer_choice == "tijera":
+            print("📄 vs ✂️")
             print(f"El computador gano el combate ✂️")
             computer_count += 1
         else:
+            print("📄 vs 🪨")
             print(f"El usuario gano el combate 📄")
             user_count += 1
     elif user_choice == Opciones[2]:
         if computer_choice == "piedra":
+            print("✂️ vs 🪨")
             print("El computador gano el combate 🪨")
             computer_count += 1
         else:
+            print("✂️ vs 📄")
             print("El usuario gano el combate ✂️")
             user_count += 1
     else:
