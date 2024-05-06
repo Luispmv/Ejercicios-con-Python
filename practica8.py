@@ -185,3 +185,17 @@ while True:
     else:
         break
 
+
+
+#Ejercicios con matrices 
+
+# Suma de matrices: Escribe una función que tome dos matrices como entrada y devuelva la matriz resultante de sumarlas.
+# Producto de matrices: Escribe una función que tome dos matrices como entrada y devuelva la matriz resultante de multiplicarlas.
+# Transposición de matriz: Escribe una función que tome una matriz como entrada y devuelva su transpuesta.
+# Determinante de una matriz: Escribe una función que calcule el determinante de una matriz cuadrada.
+# Inversa de una matriz: Escribe una función que calcule la inversa de una matriz cuadrada.
+# Identificar matriz simétrica: Escribe una función que determine si una matriz es simétrica o no.
+# Rotación de matriz: Escribe una función que rote una matriz NxN en 90 grados en sentido horario.
+# Submatriz más grande de 1s en una matriz binaria: Dada una matriz binaria, encuentra el tamaño de la submatriz cuadrada más grande de 1s.
+# Suma de diagonales de una matriz: Escribe una función que calcule la suma de los elementos en la diagonal principal y en la diagonal secundaria de una matriz cuadrada.
+# Intersección de matrices: Escribe una función que tome dos matrices como entrada y devuelva una nueva matriz que contenga los elementos que están presentes en ambas matrices.
